@@ -1,0 +1,13 @@
+D:\Programming\Visual Basic\Activity\Activity\obj\Debug\Activity.vbproj.AssemblyReference.cache
+D:\Programming\Visual Basic\Activity\Activity\obj\Debug\Activity.vbproj.SuggestedBindingRedirects.cache
+D:\Programming\Visual Basic\Activity\Activity\obj\Debug\Activity.Form1.resources
+D:\Programming\Visual Basic\Activity\Activity\obj\Debug\Activity.Resources.resources
+D:\Programming\Visual Basic\Activity\Activity\obj\Debug\Activity.vbproj.GenerateResource.cache
+D:\Programming\Visual Basic\Activity\Activity\obj\Debug\Activity.vbproj.CoreCompileInputs.cache
+D:\Programming\Visual Basic\Activity\Activity\bin\Debug\Activity.exe.config
+D:\Programming\Visual Basic\Activity\Activity\bin\Debug\Activity.exe
+D:\Programming\Visual Basic\Activity\Activity\bin\Debug\Activity.pdb
+D:\Programming\Visual Basic\Activity\Activity\bin\Debug\Activity.xml
+D:\Programming\Visual Basic\Activity\Activity\obj\Debug\Activity.exe
+D:\Programming\Visual Basic\Activity\Activity\obj\Debug\Activity.xml
+D:\Programming\Visual Basic\Activity\Activity\obj\Debug\Activity.pdb
